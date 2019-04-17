@@ -4,6 +4,7 @@ function add(a, b) {
 }
 
 function divide(a, b) {
+  // fix bug
   return a / b;
 }
 
